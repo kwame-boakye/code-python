@@ -1,0 +1,17 @@
+Problem: Given a string, find the first character that appears only once. If there is no such character, return None
+
+Example:
+Input - "swiss"
+Output - "w"
+
+Input - "aabbcc"
+Output - None
+
+Algorithm
+1. Start
+2. Initialize a dictionary to store the character frequencies
+3. Convert the input sting to lowercase to ensure case-insensitivity
+4. Count occurrences of each character in the string
+5. Find the first non-repeating number
+6. If non-repeating character is found, print an appropriate message
+7. Stop
