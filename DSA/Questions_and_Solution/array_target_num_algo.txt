@@ -1,0 +1,13 @@
+Problem:
+Given any array of integers and an integer target, return the indices of the two numbers such that they add up to the target integer
+
+Algorithm:
+1. Start
+2. Get the array of numbers
+3. Get the target number
+4. Create an empty array to store the indices
+5. Starting from the first number in the array, add it to the other numbers to see if it will add up to the target number
+6. Skip any number that is greater than the target number
+7. Repeat step 5 if unsuccessful, this time starting from the next number less than the target number
+8. Place the two numbers you got in an array and display them
+9. Stop
