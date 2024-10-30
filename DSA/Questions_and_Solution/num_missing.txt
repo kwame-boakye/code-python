@@ -1,0 +1,11 @@
+Problem: You are given an array containing (n-1) distinct numbers taken from the range (0-n). That means one number is missing from the array. Find the missing number
+
+Algorithm
+1. Start
+2. Get the value of n
+3. Create an empty array and assign it to the list of the range of n
+4. Create another variable
+5. Loop through the list of numbers to find the number not in the list
+6. Assign the number to the variable created in step 4
+7. Print the value as the missing number
+8. Stop
