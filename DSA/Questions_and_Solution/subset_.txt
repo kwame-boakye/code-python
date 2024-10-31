@@ -1,0 +1,9 @@
+Problem: Write a function that checks if one list is a subset of another. Given two lists, list1 and list2, determine if all elements of list1 are contained in list2
+
+Algorithm
+1. Start
+2. Get list 1
+3. Get list 2
+4. Define a function to check whether the second list (members) are in the parent list
+5. If all the members are in the parent list, return True. Also return True if the second list is an empty list.
+6. Stop
